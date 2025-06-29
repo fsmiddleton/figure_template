@@ -1,0 +1,11 @@
+sample,group,oil_type,oil_conc
+1,Control,A, 0.011
+1,Control,B,0.05
+2,Control,B, 0.011
+2,Control,A, 0.001
+3,Treatment1,A, 0.2
+3,Treatment1,B, 0.02
+4,Treatment2,B, 0.015
+5,Treatment1,A, 0.12
+5,Treatment1,B, 0.012
+6,Treatment2,B, 0.018
